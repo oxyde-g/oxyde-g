@@ -10,9 +10,10 @@
     <td valign="middle" align="left" width="400">
       <!-- Sisi Kanan: Info Panel -->
       <h2 style="color: #00d4ff;">> OXYDE-G</h2>
+      <p>> Milaand
       <p><b>Data Analyst | Cyber Security Enthusiast</b></p>
-      <p>> Ponorogo, Indonesia</p>
-      <p>> Fokus: Analisis Data, Keamanan Siber, & AI</p>
+      <p>> Depok, Indonesia</p>
+      <p>> Fokus: Analisis Data, Keamanan Siber, Data Science, & AI</p>
       <br>
       <!-- Link Sosial -->
       <a href="https://github.com/oxyde-g"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
