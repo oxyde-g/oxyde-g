@@ -1,8 +1,10 @@
 <div align="center">
 
-# █ █ █ SYSTEM INITIALIZED █ █ █
+<div style="background-color: #0d1117; border: 2px solid #30363d; border-radius: 10px; padding: 20px; font-family: 'Courier New', Courier, monospace; box-shadow: 0 0 20px rgba(0, 212, 255, 0.2);">
 
-<pre style="color: #00d4ff; font-family: monospace;">
+<h2 style="color: #00d4ff; font-family: monospace;">> SYSTEM_INITIALIZED: oxyde-g</h2>
+
+<pre style="color: #00d4ff; font-size: 8px; line-height: 1;">
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -60,13 +62,24 @@
 @@@%@@@@@@%%%%@###%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%@%%%%%@@@@@@@@@@@@@@
 </pre>
 
-### 🛰️ SYSTEM STATUS
-> **STATUS:** ONLINE | **ROLE:** DEVELOPER | **CORE:** AI & WEB3
+<br>
 
-### 🛠️ TECH STACK
-<img src="https://skillicons.dev/icons?i=js,python,react,docker,git,linux,vscode" />
+<div style="text-align: left; color: #8b949e; font-size: 14px; border-top: 1px solid #30363d; padding-top: 15px;">
+<p>> STATUS: <b>ONLINE</b></p>
+<p>> ROLE: <b>DATA ANALYST & CYBER SECURITY</b></p>
+<p>> CORE: <b>ANALYTICS, SECURITY, & AI</b></p>
+</div>
 
-### 📊 STATS
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oxyde-g&show_icons=true&theme=radical)
+</div>
+
+<br>
+
+### 🛠 Tech Stack
+<img src="https://skillicons.dev/icons?i=js,python,sql,powershell,linux,git,vscode" />
+
+<br><br>
+
+### 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oxyde-g&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
 
 </div>
