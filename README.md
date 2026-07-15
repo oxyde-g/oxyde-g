@@ -1,3 +1,5 @@
+# ─── ❖ ── ✦ ── WANNA HACK? ── ✦ ── ❖ ───
+
 <div align="center">
   <!-- HEADER ANIMASI MATRIX -->
   <img src="https://capsule-render.vercel.app/type=cyberpunk&color=00ff33&text=SYSTEM%20ONLINE&animation=glitch&fontAlignY=40" width="100%" alt="System Status" />
@@ -34,7 +36,7 @@ $ nmap -sV -p- localhost --reason
       <!-- DATA MAHASISWA & MINAT -->
       <span style="color: #ffffff; font-weight: bold;">[📡 USER_PROFILE]</span><br />
       🔹 <b>NAME:</b> Galang<br />
-      🔹 <b>ACADEMIC:</b> Informatics Engineering Student<br />
+      🔹 <b>ACADEMIC:</b> Informatics Engineering Student @ UNIDA<br />
       🔹 <b>FOCUS:</b> Cybersecurity / Ethical Hacking / Penetration Testing<br />
       🔹 <b>OPERATING_SYSTEM:</b> Linux (Parrot OS & Ubuntu Dual-Boot)<br />
       
@@ -55,9 +57,9 @@ $ nmap -sV -p- localhost --reason
 [WARN] Firewall rule #462025 modified successfully.
 [STATUS] Ready for new assignment...</pre>
 
-      <!-- KURSOR BERKEDIP (BLINKING CURSOR ACCENT) -->
+      <!-- KURSOR BERKEDIP -->
       <br />
-      <span style="background-color: #00ff33; color: #0d1117; font-weight: bold; padding: 0 4px; animation: blink 1s infinite;">$ 🧑‍💻 _</span>
+      <span style="background-color: #00ff33; color: #0d1117; font-weight: bold; padding: 0 4px;">$ 🧑‍💻 _</span>
     </td>
   </tr>
 </table>
