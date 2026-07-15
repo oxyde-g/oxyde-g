@@ -5,12 +5,12 @@
   <tr>
     <td valign="middle" align="center" width="300">
       <!-- Sisi Kiri: GIF Kamu -->
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZ1c3p4bGxhZWxiN2hna3psOG1yOG0yeWZrcGhwNnFtaGtyMXIwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="250" />
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BvM21ndXRuOHQ0b3A3cGw2ZjZicjFlZXNieXByZHg3aGpxdnFlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" width="250" />
     </td>
     <td valign="middle" align="left" width="400">
       <!-- Sisi Kanan: Info Panel -->
       <h2 style="color: #00d4ff;">> OXYDE-G</h2>
-      <p> Milaand 
+      <p> Milaand </p>
       <p><b>Data Analyst | Cyber Security Enthusiast</b></p>
       <p>> Depok, Indonesia</p>
       <p>> Fokus: Analisis Data, Keamanan Siber, & AI</p>
