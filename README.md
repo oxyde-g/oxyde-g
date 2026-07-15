@@ -8,7 +8,7 @@
   
   <!-- Bagian ASCII Art (Sisi Kiri) -->
   <pre style="color: #c9d1d9; font-size: 6px; line-height: 0.9;">
-  [PASTE KODE ASCII KAMU DI SINI]
+  https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BvM21ndXRuOHQ0b3A3cGw2ZjZicjFlZXNieXByZHg3aGpxdnFlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif
   </pre>
 
   <!-- Bagian Info (Sisi Kanan) -->
