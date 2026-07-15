@@ -11,12 +11,3 @@ $ nmap -sV -p- localhost --reason
 [+] Nmap scan report for localhost (127.0.0.1)
 [+] Host is up (0.00016s latency).
 [+] SYSTEM_STATUS: SESSION_ACTIVE [TUFF15_SYS_v1.6]
-
-```yml
-📡 [USER_PROFILE]
-NAME: Galang
-ACADEMIC: Informatics Engineering Student @ UNIDA
-FOCUS: Cybersecurity / Data Analyst
-OPERATING_SYSTEM: Linux (Fedora  Dual-Boot) & Windows
-
-```
